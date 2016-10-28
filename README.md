@@ -1,1 +1,2 @@
-# php-lib-mojeFundusze
+PHP client for syncing fund prices and documents from (http://mojeFundusze.pl)
+======
